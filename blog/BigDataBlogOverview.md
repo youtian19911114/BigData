@@ -100,11 +100,11 @@
 
 [5.Hive生产上，压缩和存储结合使用案例](https://mp.weixin.qq.com/s?__biz=MzA5ODY0NzgxNA==&mid=2247483811&idx=1&sn=cb6473764efdc4c2796cd832042887b4&chksm=908f2bcaa7f8a2dc4fdb5c25aa35356a5ee26376af2e585e7b3cec7c73e9d1049a10f15ed519&scene=38#wechat_redirect)
 
-##### Flume:
+
 ##### Kafka:
 [批处理ETL已亡，Kafka才是数据处理的未来【buy视频】](https://ke.qq.com/course/278667?tuin=11cffd50)
 
-##### Scala:  
+  
 ##### Spark:
 [Spark零基础实战【free视频】](https://ke.qq.com/course/238513?tuin=11cffd50)  
  
